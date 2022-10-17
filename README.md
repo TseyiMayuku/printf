@@ -1,1 +1,1 @@
-C - printf (Team projects)
+C - printf (Team project)
